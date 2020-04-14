@@ -9,7 +9,7 @@ setup(
   author = 'AndrásPataki',                   
   author_email = 'andras.h.pataki@gmail.com',     
   url = 'https://github.com/AndrasHPataki/form_to_mail',  
-  download_url = 'https://github.com/AndrasHPataki/form_to_mail/archive/0.001.tar.gz',   
+  download_url = 'https://github.com/AndrasHPataki/form_to_mail/archive/0.1.tar.gz',   
   keywords = ['Mail', 'Delivery', 'Form','Flask'],  
   install_requires=[            
           'Flask-Mail','flask-wtf'
