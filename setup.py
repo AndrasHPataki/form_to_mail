@@ -2,7 +2,7 @@ from distutils.core import setup
 setup(
   name = 'form_to_mail',         
   packages = ['form_to_mail'],   
-  version = '0.001',      
+  version = '0.1',      
   license='MIT',       
   description = 'Simple configuration system for mail, required for forms packages', 
   long_description='This library is recommended to integrate with the forms package. It works to simplify sending emails.',
