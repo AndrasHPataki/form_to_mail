@@ -6,8 +6,10 @@ Pre-configured contact forms package system for sending MAIL
 
 Form to email is a new way to create contact forms in a few steps.
 Here are some advantages:
-1.Saves more than 25 lines of code
-2.Follows DOCKER style, where the user receives a package with pre-programmed forms with bootstrap4.
+1. Saves more than 25 lines of code
+
+2. Follows DOCKER style, where the user receives a package with pre-programmed forms with bootstrap4.
+
 3.Email routing with easy configuration
 4.Self-structured emails, with pre-defined body text.
 5.Data validation using TDD (Test Drive Development) concept
