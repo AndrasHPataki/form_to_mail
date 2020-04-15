@@ -2,7 +2,7 @@ from distutils.core import setup
 setup(
   name = 'form_to_mail',         
   packages = ['form_to_mail'],   
-  version = '1',      
+  version = '1.0',      
   license='MIT',       
   description = 'Simple configuration system for mail, required for forms packages', 
   long_description="""
@@ -39,7 +39,7 @@ setup(
   author = 'AndrásPataki',                   
   author_email = 'andras.h.pataki@gmail.com',     
   url = 'https://github.com/AndrasHPataki/form_to_mail',  
-  download_url = 'https://github.com/AndrasHPataki/form_to_mail/archive/1.tar.gz',   
+  download_url = 'https://github.com/AndrasHPataki/form_to_mail/archive/1.0.tar.gz',   
   keywords = ['Mail', 'Delivery', 'Form','Flask'],  
   install_requires=[            
           'Flask-Mail','flask-wtf'
