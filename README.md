@@ -23,11 +23,5 @@ Here are some advantages:
 **This specific library is just the CORE for routing emails. The package form you download separately.**
 
 !!Follow the steps in the documentation to learn how to install Form-To-mail!!
-
-```python
-from pyfunction.pyfunction import Linear,Show
-
-Linear('-5 x 10', '2*x+3*x+2')
-Show('plot')
-```
+https://form-to-mail.pataki.tech
 
