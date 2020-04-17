@@ -1,7 +1,7 @@
 from distutils.core import setup
 setup(
-  name = 'form_to_mail',         
-  packages = ['form_to_mail'],   
+  name = 'flask_extension_ftm',         
+  packages = ['flask_extension_ftm'],   
   version = '1.0',      
   license='MIT',       
   description = 'Simple configuration system for mail, required for forms packages', 
@@ -38,9 +38,9 @@ setup(
   long_description_content_type='text/markdown',
   author = 'AndrásPataki',                   
   author_email = 'andras.h.pataki@gmail.com',     
-  url = 'https://github.com/AndrasHPataki/form_to_mail',  
+  url = 'https://github.com/AndrasHPataki/flask_extension_ftm/',  
   download_url = 'https://github.com/AndrasHPataki/form_to_mail/archive/1.0.tar.gz',   
-  keywords = ['Mail', 'Delivery', 'Form','Flask'],  
+  keywords = ['Mail', 'Delivery', 'Form','Flask','flask-extension'],  
   install_requires=[            
           'Flask-Mail','flask-wtf'
       ],
