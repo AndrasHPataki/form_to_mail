@@ -2,7 +2,7 @@ from distutils.core import setup
 setup(
   name = 'flask_extension_ftm',         
   packages = ['flask_extension_ftm'],   
-  version = '1.5',      
+  version = '1.05',      
   license='MIT',       
   description = 'Simple configuration system for mail, required for forms packages', 
   long_description="""
