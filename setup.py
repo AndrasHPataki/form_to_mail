@@ -1,10 +1,10 @@
 from distutils.core import setup
 setup(
-  name = 'flask_extension_ftm',         
-  packages = ['flask_extension_ftm'],   
+  name = 'form_to_mail',         
+  packages = ['form_to_mail'],   
   version = '1.05',      
   license='MIT',       
-  description = 'Simple configuration system for mail, required for forms packages', 
+  description = 'Simple configuration system for mail, required for forms packages(Flask Extension)', 
   long_description="""
   #FORM TO MAIL (core Library)
   Pre-configured contact forms package system for sending MAIL
