@@ -1,4 +1,4 @@
-# FORM TO MAIL(core Library)
+# FORM TO MAIL(core Library) Flask Extension
 
 Pre-configured contact forms package system for sending MAIL
 
