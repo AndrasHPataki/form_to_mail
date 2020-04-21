@@ -39,7 +39,7 @@ setup(
   author = 'AndrásPataki',                   
   author_email = 'andras.h.pataki@gmail.com',     
   url = 'https://github.com/AndrasHPataki/flask_extension_ftm/',  
-  download_url = 'https://github.com/AndrasHPataki/flask_extension_ftm/archive/1.5.tar.gz',   
+  download_url = 'https://github.com/AndrasHPataki/form_to_mail/archive/1.05.tar.gz',   
   keywords = ['Mail', 'Delivery', 'Form','Flask','flask-extension'],  
   install_requires=[            
           'Flask-Mail','flask-wtf'
